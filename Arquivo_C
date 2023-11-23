@@ -139,7 +139,7 @@ int main(){
 			case 4:
 				break;
 			default:
-				printf("\n===> Op��o invalida!");
+				printf("\n===> Opcao invalida!");
 		}
 		system("PAUSE");
 	}while(op!=4);
